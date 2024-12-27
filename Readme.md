@@ -8,3 +8,4 @@ The model obtained validation accuracy of 82%
 
 The model achieved 84.5% to the unseen data (test data).
 
+### collaborators: Bright Wiredu, Salomey Frimpong
